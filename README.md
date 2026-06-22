@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JONES JEFFRY D</h1>
-<h3 align="center">A Engineering student</h3>
+<h3 align="center">A Engineering Graduate</h3>
 
-- 💬 Ask me about **Web Development, UI/UX**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **jonesjdofficial007@gmail.com**
 
